@@ -10,3 +10,4 @@ The commnad rm /tmp/my_first_directory/Betty removes betty from yhat directory
 The command rm -r /tmp/my_first_directory removes my_first_directory from /tmp
 The command cd - changes from working directory to previous directory 
 The command ls -la../boot lists files in long formt even the hidsen ones even the ones in the boot folder
+The command ls --file-type prints the file name
