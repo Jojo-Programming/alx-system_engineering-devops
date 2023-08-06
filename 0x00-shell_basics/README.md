@@ -8,3 +8,4 @@ The mkdir -p /tmp/my_first_directory command creates a directory in the parent d
 The mv -t /tmp/my_first_directory /tmp/betty command moves the file betty from /tmp to /my first directory
 The commnad rm /tmp/my_first_directory/Betty removes betty from yhat directory
 The command rm -r /tmp/my_first_directory removes my_first_directory from /tmp
+The command cd .. changes from working directory to previous directory
