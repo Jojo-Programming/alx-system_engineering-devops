@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > hello, world, 
+cat > hello, world, 
